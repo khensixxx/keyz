@@ -1,1 +1,6 @@
- 
+  {
+  "versionCode": "7",
+  "versionName": "1.0.8",
+  "Msg": "ABSOL LAMSEL (Absensi Online Lampung Selatan) adalah aplikasi absensi digital berbasis Android yang dirancang untuk Pemerintah Kabupaten Lampung Selatan, memanfaatkan teknologi GPS dan terhubung ke smartphone pegawai untuk mencatat kehadiran secara real-time di lokasi yang telah ditentukan.",
+  "downloadLink": "https://play.google.com/store/apps/details?id=com.gbox.absol_kk"
+  } 
